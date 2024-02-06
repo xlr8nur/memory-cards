@@ -1,0 +1,12 @@
+.card {
+    object-fit: cover;
+    text-align: center;
+    width: 200px;
+    height: 200px;
+    border: 3px solid #d4e028;
+}
+
+.image {
+    height: 100%;
+    width: 100%;
+}

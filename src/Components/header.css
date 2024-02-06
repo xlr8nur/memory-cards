@@ -1,0 +1,15 @@
+#header {
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-between;
+    width: 100%;
+    border-bottom: 3px solid #f39a9a;
+    color: #381515;
+    background-color: #f39a9a;
+}
+
+#header h1{
+    margin-left: 35px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 26px;
+}
